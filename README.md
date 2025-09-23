@@ -25,5 +25,7 @@ This project is a Salesforce-based platform designed to streamline supply chain 
 This repository documents the entire project lifecycle, starting with Phase 1 (Problem Understanding & Industry Analysis) and continuing into design, implementation, and testing.
 
 Author:- Adarsh Sondhiya
+
 Linkedin:- www.linkedin.com/in/adarshsondhiya
+
 Trailhead:- https://www.salesforce.com/trailblazer/cfwj7e0him6603p3zi 
